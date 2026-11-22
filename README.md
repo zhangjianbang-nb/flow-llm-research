@@ -2,6 +2,8 @@
 
 **流匹配语言模型的下一步：一份可执行的技术调研**
 
+**在线阅读**：https://zhangjianbang-nb.github.io/flow-llm-research/ ｜ **仓库**：https://github.com/zhangjianbang-nb/flow-llm-research
+
 > 方向成立，而且值得优先投入；但真正的杠杆不是「把离散换成连续」，而是「把逐位置独立提交换成整块联合传输」，再用流映射把多步压成少步，用 AR 能力做验证。
 
 这份报告讨论 Flow Generation / Flow Matching 是否会成为 Diffusion LLM 之后的下一站，并把这个问题拆成证据、理论、玩具实验、架构提案、实验方案与工程账本六层。**FlowGemma 是报告提出的研究提案，不是已经存在的 Google 模型。**
