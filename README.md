@@ -36,6 +36,7 @@
 ├── index.html                 # 网页版（单页，离线可开）
 ├── REPORT.md                  # 合并后的 Markdown 全文
 ├── report.pdf                 # 72 页 A4 PDF
+├── .nojekyll                  # 跳过 Jekyll 构建
 ├── report/                    # 分章 Markdown 源文件
 │   ├── 00_front.md
 │   ├── 01_why.md … 10_appendix.md
