@@ -1,0 +1,12 @@
+本仓库中的报告文本、图表与 PDF（report/、REPORT.md、index.html 的正文内容、
+figs/ 与 report.pdf）采用 Creative Commons Attribution 4.0 International
+（CC BY 4.0）许可。
+
+你可以自由复制、传播、改编，但必须保留署名、许可声明与来源链接，并注明
+是否做了修改。
+
+许可全文：https://creativecommons.org/licenses/by/4.0/legalcode
+
+建议署名：
+张建邦. 从 DiffusionGemma 到 FlowGemma：基于 MoE Transformer 的少步并行语言生成.
+技术调研报告, 2026. https://github.com/zhangjianbang-nb/flow-llm-research

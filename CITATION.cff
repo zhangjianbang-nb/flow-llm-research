@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this report or experiment, please cite it as below."
+title: "从 DiffusionGemma 到 FlowGemma：基于 MoE Transformer 的少步并行语言生成"
+abstract: "一份关于 Flow Matching 语言模型的技术调研：证据核验、连续与离散的三臂 oracle 实验、FlowGemma 架构提案、E0-E3 实验方案与工程账本。"
+authors:
+  - family-names: "张"
+    given-names: "建邦"
+    alias: "Zhang Jianbang"
+date-released: 2026-11-21
+url: "https://github.com/zhangjianbang-nb/flow-llm-research"
+license: CC-BY-4.0
+keywords:
+  - Flow Matching
+  - Diffusion LLM
+  - FlowGemma
+  - DiffusionGemma
+  - Mixture of Experts
+  - KV Cache
+  - Parallel Decoding
